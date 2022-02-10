@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nikita-Cros
+- 👀 I’m interested in Python development and all its branches
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python
+- 📫 You can contact me by email: 6517ghost@gmail.com
